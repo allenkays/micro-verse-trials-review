@@ -130,6 +130,14 @@ A mighty, modern linter that helps you avoid errors and enforce conventions in y
 
 👤 **Author1**
 
+- GitHub: [@Aqurds](https://github.com/Aqurds)
+- Twitter: [@aqurds](https://twitter.com/aqurds)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aqurds/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+👤 **Author2**
+
 - GitHub: [@allenkays](https://github.com/allenkays)
 - Twitter: [@allenkays](https://twitter.com/allenkays)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/allan-sang/)
